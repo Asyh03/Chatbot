@@ -6,7 +6,6 @@ Ce projet est un simple chatbot graphique utilisant la bibliothèque **CustomTki
 - 🗨️ Réponses automatiques basées sur un dictionnaire de questions/réponses.
 - 🔗 Suggestions de liens utiles en fonction de certains mots-clés.
 - 🎨 Interface graphique simple et interactive avec CustomTkinter.
-- ⏹️ Possibilité de quitter l'application en tapant "quit".
 
 ## ⚙️ Prérequis
 Avant d'exécuter ce projet, assurez-vous d'avoir Python installé sur votre machine. Vous devez également installer **CustomTkinter** si ce n'est pas déjà fait.
